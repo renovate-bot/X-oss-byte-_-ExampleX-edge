@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@optimizely/optimizely-sdk": "^4.9.1",
+    "@optimizely/optimizely-sdk": "^6.0.0",
     "@vercel/edge-functions-ui": "^0.2.1",
     "next": "^12.1.0",
     "react": "17.0.2",
