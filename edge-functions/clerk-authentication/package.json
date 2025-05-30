@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^2.10.1",
-    "@headlessui/react": "^1.4.3",
+    "@headlessui/react": "^2.0.0",
     "@heroicons/react": "^1.0.5",
     "@peculiar/webcrypto": "^1.2.3",
     "add": "^2.0.6",

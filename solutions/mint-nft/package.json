@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.4.3",
+    "@headlessui/react": "^2.0.0",
     "@heroicons/react": "^1.0.5",
     "@tensorflow/tfjs": "^3.13.0",
     "@vercel/examples-ui": "^0.3.2",
