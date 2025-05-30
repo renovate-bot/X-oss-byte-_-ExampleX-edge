@@ -45,7 +45,7 @@
     "@builder.io/utils": "^1.0.4",
     "@szhsin/react-menu": "^2.3.3",
     "@types/js-cookie": "^3.0.1",
-    "@vercel/fetch": "^6.1.1",
+    "@vercel/fetch": "^7.0.0",
     "atob": "^2.1.2",
     "jest": "^27.4.7",
     "js-cookie": "^3.0.1",
