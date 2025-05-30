@@ -43,7 +43,7 @@
     "@builder.io/personalization-utils": "0.0.7",
     "@builder.io/react": "^1.1.47",
     "@builder.io/utils": "^1.0.4",
-    "@szhsin/react-menu": "^2.3.3",
+    "@szhsin/react-menu": "^4.0.0",
     "@types/js-cookie": "^3.0.1",
     "@vercel/fetch": "^6.1.1",
     "atob": "^2.1.2",
