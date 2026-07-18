@@ -41,7 +41,7 @@
     "sitemap": "^7.1.0",
     "slate": "^0.72.3",
     "slate-history": "^0.66.0",
-    "slate-react": "^0.72.6",
+    "slate-react": "^0.126.0",
     "swr": "^1.1.2",
     "use-debounce": "^7.0.1",
     "uuid": "^8.3.2"
